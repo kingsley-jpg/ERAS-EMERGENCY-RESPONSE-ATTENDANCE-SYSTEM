@@ -1,0 +1,6 @@
+{
+  "name": "ERAS - Emergency Response & Healthcare Assistance System",
+  "description": "Emergency healthcare locator, AI medical triage assistant, verified first aid protocols, and Ghana 112 emergency response network.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
